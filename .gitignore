@@ -87,9 +87,10 @@ target/
 *.gz
 *.toc
 
-# IDEs (VSCode, etc.)
+# IDEs (VSCode, IDEA, etc.)
 .env
 *.code-workspace
+.idea/
 
 # Class diagram
 *.pyns
